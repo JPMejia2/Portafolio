@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+}
+:root {
+    --Bitcoin-Orange:   #F7931A;
+    --Soft-Orange:      #FFE9D4;
+    --Secondary-Blue:   #1A9AF7;
+    --Soft-Blue:        #E7F5FF;
+    --Warm-Black:       #201E1C;
+    --Warm-Black-1:     #282623;
+    --Grey:             #757575;
+    --Off-White:        #FAF8F7;
+    --White:            #ffffff;
+    --Grey2:            #B5B0AC;
+    --Grey3:            #BABABA;
+    --Grey4:            #808080;
+
+}

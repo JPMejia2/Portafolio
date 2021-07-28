@@ -1,0 +1,821 @@
+.seccion1{
+    width: 100%;
+    height: 96rem;
+    background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    text-align: center;
+    padding-top: 6rem;
+}
+
+.c1{
+    width: 100%;
+    height: auto;
+}
+
+.papalina{
+    height: auto;
+    width: 15rem;
+    display: inline-block;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+
+.title{
+    font-size: 8rem;
+    color: var(--Bitcoin-Orange);
+    display: inline-block;
+    margin-bottom: 0.2rem;
+}
+
+.c2{
+    width: 100%;
+    height: 44rem;
+    padding: 8rem;
+}
+
+.title2{
+    font-size: 8rem;
+    color: var(--White);
+    display: inline-block;
+    margin-bottom: 0.2rem;
+    line-height: 9rem
+}
+
+.c3{
+    width: 100%;
+    height: 20rem;
+    padding: 2.5rem;
+}
+
+.title3{
+    font-size: 4.5rem;
+    color: var(--Off-White);
+    display: inline-block;
+    margin-bottom: 0.2rem;
+}
+
+.boton1{
+    height: 14rem;
+    width: 60rem;
+    margin-top: 5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: var(--Off-White);
+    box-shadow: 0px 5px 35px rgba(0, 0, 0, .2);
+    padding: 4rem;
+}
+
+.textboton{
+   font-size: 3.8rem;
+   float: left;
+   color: var(--Warm-Black);
+}
+
+.cuadro1{
+    width: 4rem;
+    height: 4rem;
+    float: right;
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+}
+
+.seccion2{
+    width: 100%;
+    height: auto;
+    background-color: var(--Off-White);
+    padding: 3rem;
+    text-align: center;
+}
+
+.bitcoin{
+    width: 70%;
+    height: auto;
+    margin-top: 15rem;
+}
+
+.cajamonedas{
+    height: 150rem;
+    width: 100%;
+    margin-top: 15rem;
+    text-align: center;
+}
+
+.cajamonedastext{
+    font-size: 7.5rem;
+    color: var(--Warm-Black);
+    display: inline-block;
+    margin-bottom: 0.2rem;
+    line-height: 8rem;
+}
+.monedastext1{
+    font-size: 4.2rem;
+    color: var(--Grey3);
+    margin-bottom: 0.2rem;
+    margin-top: 8.5rem;
+    line-height: 6rem;
+}
+.monedas{
+    height: 90rem;
+    width: 70%;
+    margin: auto;
+    margin-top: 18rem;
+}
+.monedastext2{
+   font-size: 5.5rem;
+   float: left;
+   color: var(--Bitcoin-Orange);
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+}
+.tabla{
+    border: 1px solid;
+    width: 100%;
+    height: 50rem;
+    border-collapse: collapse;
+    border-radius: 2rem;
+    box-shadow: 0px 0px 0px 1px var(--White);
+    overflow: hidden;
+    background-color: var(--White);
+}
+.tabla td{
+    text-align: left;
+    border: 2px solid var(--Off-White);
+    font-size: 4.6rem;
+}
+
+th, td {
+  padding: 3.5rem;
+}
+.an{
+    color: var(--Grey2);
+}
+.un{
+    color: var(--Grey);
+    font-family: sans-serif;
+}
+.flecha{
+    height: 3.6rem;
+    width: 5.6rem;
+    margin-left: 4rem;
+}
+.icono{
+    float: right;
+    margin-top: 53rem;
+    margin-right: 6rem;
+    display: none;
+}
+.actu{
+    width: 90%;
+    height: 9rem;
+    background-color: var(--Soft-Orange);
+    margin: auto;
+    border-radius: 2rem;
+    margin-top: 4.5rem;
+    padding: 2rem;
+}
+.actu p{
+    font-size: 4rem;
+}
+
+.seccion3{
+    width: 100%;
+    height: auto;
+    background-color: var(--Warm-Black);
+    text-align: center;
+    padding-bottom: 18rem;
+}
+.seccion3text{
+    font-size: 7.5rem;
+    color: var(--White);
+    display: inline-block;
+    margin-top: 18rem;
+    line-height: 8rem;
+}
+.cuadrosnegrost{
+    height: 13rem;
+    width: 90%;
+    margin: auto;
+    margin-top: 9rem;
+}
+.seccion3text2{
+    font-size: 4.2rem;
+    float: left;
+    color: var(--Grey4);
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+}
+.cuadrosnegros{
+    height: auto;
+    width: 100%;
+    padding-top: 13rem;
+}
+.cuadros1{
+    height: auto;
+    width: 90%;
+    margin: auto;
+    background-color: var(--Warm-Black-1);
+    box-shadow: 0px 6px 25px rgba(0, 0, 0, 0.16);
+    border-radius: 2rem;
+    padding: 5rem;
+    text-align: left;
+    margin-top: 5rem;
+}
+.reloj{
+    height: 8.5rem;
+    width: 8.5rem;
+    float: left;
+}
+.cuadrosnegrostext{
+    font-size: 5.5rem;
+    color: var(--White);
+    margin-top: 12rem;
+}
+.cuadron2{
+    width: 100%;
+    height: 28rem;
+}
+.cu2{
+    font-size: 4rem;
+    float: left;
+    color: var(--Grey4);
+    margin-top: 3rem;
+}
+.foto{
+    width: 100%;
+    height: 135rem;
+    background-image: url(../img/imagenes/bitcoinbaby%201.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.imgtexto{
+    font-size: 7.5rem;
+    color: var(--White);
+    display: inline-block;
+    line-height: 8rem;
+    margin-top: 24rem;
+}
+
+/***************************************************************
+#       CONFIGURACION RESPONSIVE TABLET    *
+****************************************************************/
+@media screen and (max-width:834px){
+    .seccion1{
+        width: 100%;
+        height: 29rem;
+        padding-top: 6rem;
+    }
+
+    .c1{
+        width: 100%;
+        height: auto;
+    }
+
+    .papalina{
+        height: auto;
+        width: 2.8rem;
+        display: inline-block;
+        margin-right: 0.3rem;
+        margin-top: 0rem;
+    }
+
+    .title{
+        font-size: 1.8rem;
+        color: var(--Bitcoin-Orange);
+        display: inline-block;
+        margin-bottom: 0.2rem;
+    }
+
+    .c2{
+        width: 100%;
+        height: auto;
+        padding: 12rem;
+        padding-bottom: 0rem;
+        padding-top: 1.5rem;
+    }
+
+    .title2{
+        font-size: 2.6rem;
+        color: var(--White);
+        display: inline-block;
+        margin-bottom: 0.2rem;
+        line-height: 3rem
+    }
+
+    .c3{
+        width: 100%;
+        height: auto;
+        padding: 13rem;
+        padding-bottom: 0rem;
+        padding-top: 1.3rem;
+    }
+
+    .title3{
+        font-size: 1.2rem;
+        color: var(--Off-White);
+        display: inline-block;
+        margin-bottom: 0.2rem;
+    }
+
+    .boton1{
+        height: 3.2rem;
+        width: 15rem;
+        margin-top: 3.4rem;
+        border: none;
+        border-radius: 0.3rem;
+        background-color: var(--Off-White);
+        box-shadow: 0px 5px 35px rgba(0, 0, 0, .2);
+        padding: 1rem;
+        padding-left: 1.4rem;
+        padding-right: 1.4rem;
+    }
+
+    .textboton{
+       font-size: 0.9rem;
+       float: left;
+       color: var(--Warm-Black);
+    }
+
+    .cuadro1{
+        width: 1.5rem;
+        height: 1.5rem;
+        float: right;
+        margin-top: 0.1rem;
+        margin-right: 0rem;
+    }
+
+    .seccion2{
+        width: 100%;
+        height: auto;
+        background-color: var(--Off-White);
+        padding: 0rem;
+        text-align: center;
+    }
+
+    .bitcoin{
+        width: 13rem;
+        height: auto;
+        margin-top: 3rem;
+    }
+
+    .cajamonedas{
+        height: 38rem;
+        width: 100%;
+        margin-top: 3.5rem;
+        text-align: center;
+    }
+
+    .cajamonedastext{
+        font-size: 2.6rem;
+        color: var(--Warm-Black);
+        display: inline-block;
+        margin-bottom: 0.2rem;
+        line-height: 3rem;
+    }
+    .monedastext1{
+        font-size: 1.2rem;
+        color: var(--Grey3);
+        margin-bottom: 0.2rem;
+        margin-top: 1.5rem;
+        line-height: 1.4rem;
+    }
+    .monedas{
+        height: 25rem;
+        width: 40%;
+        margin: auto;
+        margin-top: 2.8rem;
+    }
+    .monedastext2{
+       font-size: 1.4rem;
+       float: left;
+       color: var(--Bitcoin-Orange);
+        margin-bottom: 1rem;
+        margin-left: 0.5rem;
+    }
+    .tabla{
+        border: 1px solid;
+        width: 100%;
+        height: 5rem;
+        border-collapse: collapse;
+        border-radius: 0.5rem;
+        box-shadow: 0px 0px 0px 1px var(--White);
+        overflow: hidden;
+        background-color: var(--White);
+    }
+    .tabla td{
+        text-align: left;
+        border: 1px solid var(--Off-White);
+        font-size: 1.1rem;
+    }
+
+    th, td {
+        padding: 0rem;
+        padding-right: 0rem;
+        padding-left: 0.7rem;
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
+    }
+    .an{
+        color: var(--Grey2);
+    }
+    .un{
+        color: var(--Grey);
+        font-family: sans-serif;
+    }
+    .flecha{
+        float: right;
+        height: 1rem;
+        width: 1.3rem;
+        margin-right: 10%;
+        margin-left: 0.5rem;
+    }
+    .actu{
+        width: 8.5rem;
+        height: 2.7rem;
+        background-color: var(--Soft-Orange);
+        margin: auto;
+        border-radius: 0.6rem;
+        margin-top: 1.6rem;
+        padding: 0rem;
+        padding-top: 0.69rem;
+    }
+    .actu p{
+        font-size: 0.9rem;
+    }
+    .seccion3{
+        width: 100%;
+        height: 61rem;
+        background-color: var(--Warm-Black);
+        text-align: center;
+        padding-top: 5rem;
+        padding-bottom: 18rem;
+    }
+    .cajah2{
+        width: 100%;
+        height: 4rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .seccion3text{
+        font-size: 1.6rem;
+        color: var(--White);
+        line-height: 1.8rem;
+        margin-top: 0rem;
+    }
+    .cuadrosnegrost{
+        height: 3.5rem;
+        width: 90%;
+        margin: auto;
+        margin-top: 2rem;
+        text-align: center;
+        padding: 0rem;
+    }
+    .seccion3text2{
+        font-size: 0.85rem;
+        color: var(--Grey4);
+        margin: 0rem;
+    }
+    .cuadrosnegros{
+        height: auto;
+        width: 100%;
+        padding-top: 0rem;
+    }
+    .cuadros1{
+        height: auto;
+        width: 90%;
+        margin: auto;
+        background-color: var(--Warm-Black-1);
+        box-shadow: 0px 6px 25px rgba(0, 0, 0, 0.16);
+        border-radius: 0.3rem;
+        padding: 1rem;
+        text-align: left;
+        margin-top: 1rem;
+    }
+    .reloj{
+        height: 1.5rem;
+        width: 1.5rem;
+        float: left;
+    }
+    .cuadrosnegrostext{
+        font-size: 1.2rem;
+        color: var(--White);
+        margin-top: 2rem;
+    }
+    .cuadron2{
+        width: 100%;
+        height: 4.3rem;
+    }
+    .cu2{
+        font-size: 0.9rem;
+        float: left;
+        color: var(--Grey4);
+        margin-top: 0.8rem;
+    }
+    .foto{
+        width: 100%;
+        height: 30rem;
+        background-image: url(../img/imagenes/bitcoinbaby%201.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+    }
+    .imgtexto{
+        font-size: 1.6rem;
+        color: var(--White);
+        display: inline-block;
+        line-height: 8rem;
+        margin-top: 1rem;
+    }
+}
+
+/***************************************************************
+#       CONFIGURACION RESPONSIVE TELÉFONO     *
+****************************************************************/
+@media screen and (max-width:414px){
+    body{
+        font-size: 6px;
+    }
+    .seccion1{
+        width: 100%;
+        height: 17rem;
+        padding-top: 2rem;
+    }
+
+    .c1{
+        width: 100%;
+        height: auto;
+    }
+
+    .papalina{
+        height: auto;
+        width: 2.5rem;
+        display: inline-block;
+        margin-right: 0.5rem;
+        margin-top: 0rem;
+    }
+
+    .title{
+        font-size: 1.6rem;
+        color: var(--Bitcoin-Orange);
+        display: inline-block;
+        margin-bottom: 0.2rem;
+    }
+
+    .c2{
+        width: 100%;
+        height: auto;
+        padding: 0.9rem;
+    }
+
+    .title2{
+        font-size: 1.6rem;
+        color: var(--White);
+        display: inline-block;
+        margin-bottom: 0.2rem;
+        line-height: 1.8rem
+    }
+
+    .c3{
+        width: 100%;
+        height: auto;
+        padding: 1.3rem;
+        padding-top: 0.8rem;
+    }
+
+    .title3{
+        font-size: 0.8rem;
+        color: var(--Off-White);
+        display: inline-block;
+        margin-bottom: 0.2rem;
+    }
+
+    .boton1{
+        height: 3.2rem;
+        width: 15rem;
+        margin-top: 1.1rem;
+        border: none;
+        border-radius: 0.3rem;
+        background-color: var(--Off-White);
+        box-shadow: 0px 5px 35px rgba(0, 0, 0, .2);
+        padding: 1rem;
+        padding-left: 1.4rem;
+        padding-right: 1.4rem;
+    }
+
+    .textboton{
+       font-size: 0.9rem;
+       float: left;
+       color: var(--Warm-Black);
+    }
+
+    .cuadro1{
+        width: 1.5rem;
+        height: 1.5rem;
+        float: right;
+        margin-top: 0.1rem;
+        margin-right: 0rem;
+    }
+
+    .seccion2{
+        width: 100%;
+        height: auto;
+        background-color: var(--Off-White);
+        padding: 1rem;
+        text-align: center;
+    }
+
+    .bitcoin{
+        width: 65%;
+        height: auto;
+        margin-top: 3rem;
+    }
+
+    .cajamonedas{
+        height: 38rem;
+        width: 100%;
+        margin-top: 3.5rem;
+        text-align: center;
+    }
+
+    .cajamonedastext{
+        font-size: 1.6rem;
+        color: var(--Warm-Black);
+        display: inline-block;
+        margin-bottom: 0.2rem;
+        line-height: 1.8rem;
+    }
+    .monedastext1{
+        font-size: 0.9rem;
+        color: var(--Grey3);
+        margin-bottom: 0.2rem;
+        margin-top: 1.5rem;
+        line-height: 1rem;
+    }
+    .monedas{
+        height: 25rem;
+        width: 70%;
+        margin: auto;
+        margin-top: 5rem;
+    }
+    .monedastext2{
+       font-size: 1.4rem;
+       float: left;
+       color: var(--Bitcoin-Orange);
+        margin-bottom: 1rem;
+        margin-left: 0.5rem;
+    }
+    .tabla{
+        border: 1px solid;
+        width: 100%;
+        height: 5rem;
+        border-collapse: collapse;
+        border-radius: 0.5rem;
+        box-shadow: 0px 0px 0px 1px var(--White);
+        overflow: hidden;
+        background-color: var(--White);
+    }
+    .tabla td{
+        text-align: left;
+        border: 1px solid var(--Off-White);
+        font-size: 1.1rem;
+    }
+
+    th, td {
+        padding: 0rem;
+        padding-right: 0rem;
+        padding-left: 0.7rem;
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
+    }
+    .an{
+        color: var(--Grey2);
+    }
+    .un{
+        color: var(--Grey);
+        font-family: sans-serif;
+    }
+    .flecha{
+        float: right;
+        height: 1rem;
+        width: 1.3rem;
+        margin-right: 10%;
+        margin-left: 0.5rem;
+    }
+    .icono{
+        float: right;
+        margin-top: 13.3rem;
+        margin-right: 0.5rem;
+        display: flex;
+    }
+    .actu{
+        width: 8.5rem;
+        height: 2.7rem;
+        background-color: var(--Soft-Orange);
+        margin: auto;
+        border-radius: 0.6rem;
+        margin-top: 1.6rem;
+        padding: 0rem;
+        padding-top: 0.69rem;
+    }
+    .actu p{
+        font-size: 0.9rem;
+    }
+
+    .seccion3{
+        width: 100%;
+        height: 61rem;
+        background-color: var(--Warm-Black);
+        text-align: center;
+        padding-top: 5rem;
+        padding-bottom: 18rem;
+    }
+    .cajah2{
+        width: 100%;
+        height: 4rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .seccion3text{
+        font-size: 1.6rem;
+        color: var(--White);
+        line-height: 1.8rem;
+        margin-top: 0rem;
+    }
+    .cuadrosnegrost{
+        height: 3.5rem;
+        width: 90%;
+        margin: auto;
+        margin-top: 2rem;
+        text-align: center;
+        padding: 0rem;
+    }
+    .seccion3text2{
+        font-size: 0.85rem;
+        color: var(--Grey4);
+        margin: 0rem;
+    }
+    .cuadrosnegros{
+        height: auto;
+        width: 100%;
+        padding-top: 0rem;
+    }
+    .cuadros1{
+        height: auto;
+        width: 90%;
+        margin: auto;
+        background-color: var(--Warm-Black-1);
+        box-shadow: 0px 6px 25px rgba(0, 0, 0, 0.16);
+        border-radius: 0.3rem;
+        padding: 1rem;
+        text-align: left;
+        margin-top: 1rem;
+    }
+    .reloj{
+        height: 1.5rem;
+        width: 1.5rem;
+        float: left;
+    }
+    .cuadrosnegrostext{
+        font-size: 1.2rem;
+        color: var(--White);
+        margin-top: 2rem;
+    }
+    .cuadron2{
+        width: 100%;
+        height: 4.3rem;
+    }
+    .cu2{
+        font-size: 0.9rem;
+        float: left;
+        color: var(--Grey4);
+        margin-top: 0.8rem;
+    }
+    .foto{
+        width: 100%;
+        height: 30rem;
+        background-image: url(../img/imagenes/bitcoinbaby%201.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+    }
+    .imgtexto{
+        font-size: 1.6rem;
+        color: var(--White);
+        display: inline-block;
+        line-height: 8rem;
+        margin-top: 1rem;
+    }
+}
+    
+@media screen and (max-width:375px){
+    .seccion1{
+        height: 19rem;
+    }
+    .boton1{
+        height: 3.2rem;
+        width: 15rem;
+        margin-top: 1.2rem;
+    }
+    .foto{
+        height: 25rem;
+    }
+}
